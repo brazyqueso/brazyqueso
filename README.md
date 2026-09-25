@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/iinze0">
-  <img src="https://raw.githubusercontent.com/brazyqueso/brazyqueso/main/zfwB4.png" width="580" alt="PAKUN" />
+  <img src="https://raw.githubusercontent.com/brazyqueso/brazyqueso/main/assets/pakun-animated.svg" width="580" alt="PAKUN" />
 </a>
 
 ### Offensive Security & Kali Linux Tooling
