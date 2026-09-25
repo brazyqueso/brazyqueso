@@ -1,41 +1,49 @@
 <div align="center">
 
 <a href="https://github.com/iinze0">
-  <img src="https://raw.githubusercontent.com/brazyqueso/brazyqueso/main/zfwB4.png" width="600" alt="PAKUN" />
+  <img src="https://raw.githubusercontent.com/brazyqueso/brazyqueso/main/zfwB4.png" width="580" alt="PAKUN" />
 </a>
 
-**offensive security • kali tooling • red team utilities**
+### Offensive Security & Kali Linux Tooling
 
-```diff
-+ building (mostly) useless but highly functional kali tools
-+ local llm helpers • advanced target control • cyber suites
-```
+**Pakun** · Norway  
+Building practical cyber security tools, red-team utilities, and local LLM helpers for Kali Linux.
 
----
+[kalitools.onrender.com](https://kalitools.onrender.com)
 
-### ▌ current arsenal
-
-| tool | description |
-|:-----|:------------|
-| **[PCS](https://github.com/brazyqueso/pcs)** | Pro Cyber Suite — professional Kali / cybersec toolkit |
-| **[ATC](https://github.com/brazyqueso/ATC)** | Advanced Target Control — made with iinze0 |
-| **[LFD](https://github.com/brazyqueso/lfd)** | LLMs for Dummies — local LLM helper for Kali |
+</div>
 
 ---
 
-```bash
-$ whoami
-Pakun // Norway
+### About
 
-$ cat mission.txt
-Craft tools that make the terminal feel alive.
-Useless? Maybe. Effective? Always.
-
-$ curl -s https://kalitools.onrender.com
-# → tools live here
-```
+I focus on creating lightweight, functional tools for penetration testing, target control, and AI-assisted workflows on Kali.  
+Most projects are written in Shell and designed to be immediately usable in real environments.
 
 ---
+
+### Repositories
+
+| Repository | Description | Language |
+|:-----------|:------------|:---------|
+| **[PCS](https://github.com/brazyqueso/pcs)** | Pro Cyber Suite — professional Kali / cybersec toolkit | — |
+| **[ATC](https://github.com/brazyqueso/ATC)** | Advanced Target Control (with [iinze0](https://github.com/iinze0)) | Shell |
+| **[LFD](https://github.com/brazyqueso/lfd)** | LLMs for Dummies — local LLM helper for Kali | Shell |
+| **[kalitools](https://github.com/brazyqueso/kalitools)** | Collection of Kali-focused tools & utilities | CSS |
+
+---
+
+### Focus Areas
+
+- Offensive security tooling  
+- Kali Linux utilities  
+- Red team / target control  
+- Local LLM integration for security workflows  
+- Clean, practical scripts that solve real problems  
+
+---
+
+<div align="center">
 
 `[ root@kali ]# _`
 
