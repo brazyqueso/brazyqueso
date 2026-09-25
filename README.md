@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**brazyqueso/brazyqueso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   ██████╗ ██████╗  █████╗ ███████╗██╗   ██╗              ║
+║   ██╔══██╗██╔══██╗██╔══██╗╚══███╔╝╚██╗ ██╔╝              ║
+║   ██████╔╝██████╔╝███████║  ███╔╝  ╚████╔╝               ║
+║   ██╔══██╗██╔══██╗██╔══██║ ███╔╝    ╚██╔╝                ║
+║   ██████╔╝██║  ██║██║  ██║███████╗   ██║                 ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝                 ║
+║                                                          ║
+║              ▓▓▓  P A K U N  ▓▓▓                         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-Here are some ideas to get you started:
+**offensive security • kali tooling • red team utilities**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
++ building (mostly) useless but highly functional kali tools
++ local llm helpers • advanced target control • cyber suites
+```
+
+---
+
+### ▌ current arsenal
+
+| tool | description |
+|:-----|:------------|
+| **[PCS](https://github.com/brazyqueso/pcs)** | Pro Cyber Suite — professional Kali / cybersec toolkit |
+| **[ATC](https://github.com/brazyqueso/ATC)** | Advanced Target Control — made with iinze0 |
+| **[LFD](https://github.com/brazyqueso/lfd)** | LLMs for Dummies — local LLM helper for Kali |
+
+---
+
+```bash
+$ whoami
+Pakun // Norway
+
+$ cat mission.txt
+Craft tools that make the terminal feel alive.
+Useless? Maybe. Effective? Always.
+
+$ curl -s https://kalitools.onrender.com
+# → tools live here
+```
+
+---
+
+<div align="center">
+
+`[ root@kali ]# _`
+
+</div>
+
+</div>
