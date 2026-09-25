@@ -1,19 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="160" viewBox="0 0 600 160">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
-      .title {
-        font-family: 'Orbitron', monospace, sans-serif;
-        font-size: 92px;
-        font-weight: 700;
-        fill: #00ff41;
-        letter-spacing: 8px;
-      }
-      @media (prefers-color-scheme: light) {
-        .title { fill: #0a0; }
-      }
-    </style>
-  </defs>
-  <rect width="100%" height="100%" fill="transparent"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="140" viewBox="0 0 620 140">
+  <style>
+    .title {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 96px;
+      font-weight: 800;
+      fill: #00ff41;
+      letter-spacing: 12px;
+    }
+  </style>
   <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" class="title">PAKUN</text>
 </svg>
