@@ -1,6 +1,8 @@
 <div align="center">
 
-### [ **PAKUN** ](https://github.com/iinze0)
+<a href="https://github.com/iinze0">
+  <img src="https://raw.githubusercontent.com/brazyqueso/brazyqueso/main/assets/pakun.png" width="600" alt="PAKUN" />
+</a>
 
 **offensive security • kali tooling • red team utilities**
 
