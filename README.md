@@ -1,17 +1,8 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════╗
-║                                              ║
-║   ██████╗  █████╗ ██╗  ██╗██╗   ██╗███╗   ██╗ ║
-║   ██╔══██╗██╔══██╗██║ ██╔╝██║   ██║████╗  ██║ ║
-║   ██████╔╝███████║█████╔╝ ██║   ██║██╔██╗ ██║ ║
-║   ██╔═══╝ ██╔══██║██╔═██╗ ██║   ██║██║╚██╗██║ ║
-║   ██║     ██║  ██║██║  ██╗╚██████╔╝██║ ╚████║ ║
-║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
+<a href="https://github.com/iinze0">
+  <img src="https://avatars.githubusercontent.com/u/178047524?v=4" width="220" height="220" style="border-radius: 50%; border: 3px solid #00ff41;" alt="Pakun" />
+</a>
 
 **offensive security • kali tooling • red team utilities**
 
@@ -46,10 +37,6 @@ $ curl -s https://kalitools.onrender.com
 
 ---
 
-<div align="center">
-
 `[ root@kali ]# _`
-
-</div>
 
 </div>
